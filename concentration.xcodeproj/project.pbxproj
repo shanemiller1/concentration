@@ -97,11 +97,9 @@
 		34F9EF8D2394A6E100684CF7 /* concentration */ = {
 			isa = PBXGroup;
 			children = (
-				34F9EF8E2394A6E100684CF7 /* AppDelegate.swift */,
 				34F9EF902394A6E100684CF7 /* ViewController.swift */,
 				34F9EF922394A6E100684CF7 /* Main.storyboard */,
-				34F9EF952394A6E100684CF7 /* Assets.xcassets */,
-				34F9EF972394A6E100684CF7 /* LaunchScreen.storyboard */,
+				34F9EFBC2394AA2900684CF7 /* SupportFiles */,
 				34F9EF9A2394A6E100684CF7 /* Info.plist */,
 			);
 			path = concentration;
@@ -123,6 +121,16 @@
 				34F9EFB02394A6E100684CF7 /* Info.plist */,
 			);
 			path = concentrationUITests;
+			sourceTree = "<group>";
+		};
+		34F9EFBC2394AA2900684CF7 /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				34F9EF8E2394A6E100684CF7 /* AppDelegate.swift */,
+				34F9EF952394A6E100684CF7 /* Assets.xcassets */,
+				34F9EF972394A6E100684CF7 /* LaunchScreen.storyboard */,
+			);
+			path = SupportFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -427,7 +435,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5XJY8BBW2W;
 				INFOPLIST_FILE = concentration/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = github.concentration;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,7 +451,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5XJY8BBW2W;
 				INFOPLIST_FILE = concentration/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = github.concentration;
 				PRODUCT_NAME = "$(TARGET_NAME)";
