@@ -31,7 +31,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="vox-eG-Vd6">
-                                <rect key="frame" x="16" y="44" width="343" height="250"/>
+                                <rect key="frame" x="16" y="69" width="343" height="250"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="25V-lG-yoP">
                                         <rect key="frame" x="0.0" y="0.0" width="343" height="78"/>
@@ -154,7 +154,7 @@
                             <constraint firstItem="jyW-iI-9TO" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Mek-YG-bfR"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="vox-eG-Vd6" secondAttribute="trailing" constant="16" id="gJP-9E-Qog"/>
                             <constraint firstItem="jyW-iI-9TO" firstAttribute="top" relation="greaterThanOrEqual" secondItem="vox-eG-Vd6" secondAttribute="bottom" constant="8" symbolic="YES" id="jkT-y6-JF5"/>
-                            <constraint firstItem="vox-eG-Vd6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="qVl-ed-DZc"/>
+                            <constraint firstItem="vox-eG-Vd6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="25" id="qVl-ed-DZc"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
