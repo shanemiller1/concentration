@@ -164,6 +164,14 @@
                         <outletCollection property="cardButtons" destination="VRn-BX-IPQ" collectionClass="NSMutableArray" id="JBN-kh-S9n"/>
                         <outletCollection property="cardButtons" destination="Arm-Rd-Pc5" collectionClass="NSMutableArray" id="3A0-Jd-oeN"/>
                         <outletCollection property="cardButtons" destination="kxJ-n5-RYI" collectionClass="NSMutableArray" id="lXg-XM-7l6"/>
+                        <outletCollection property="cardButtons" destination="Kc5-bz-xrM" collectionClass="NSMutableArray" id="wwE-Sc-eeR"/>
+                        <outletCollection property="cardButtons" destination="CSX-0M-BA2" collectionClass="NSMutableArray" id="508-wY-REI"/>
+                        <outletCollection property="cardButtons" destination="dYJ-de-oq2" collectionClass="NSMutableArray" id="w4H-hE-XfX"/>
+                        <outletCollection property="cardButtons" destination="LY7-ur-WwX" collectionClass="NSMutableArray" id="27M-QW-jnd"/>
+                        <outletCollection property="cardButtons" destination="GGJ-cv-kCR" collectionClass="NSMutableArray" id="7wg-Mf-Jlj"/>
+                        <outletCollection property="cardButtons" destination="ypq-yD-Upx" collectionClass="NSMutableArray" id="TkR-sk-bur"/>
+                        <outletCollection property="cardButtons" destination="Uap-Fa-4xb" collectionClass="NSMutableArray" id="XG5-4w-zFn"/>
+                        <outletCollection property="cardButtons" destination="mM5-sJ-uhG" collectionClass="NSMutableArray" id="rlc-hd-eF4"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
