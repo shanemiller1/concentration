@@ -10,12 +10,10 @@
 		34A148D3239EE53B00128594 /* concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34A148D2239EE53B00128594 /* concentration.swift */; };
 		34A148D5239EECBC00128594 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34A148D4239EECBC00128594 /* Card.swift */; };
 		34F9EF8F2394A6E100684CF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F9EF8E2394A6E100684CF7 /* AppDelegate.swift */; };
-		34F9EF912394A6E100684CF7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F9EF902394A6E100684CF7 /* ViewController.swift */; };
+		34F9EF912394A6E100684CF7 /* ConcentrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F9EF902394A6E100684CF7 /* ConcentrationViewController.swift */; };
 		34F9EF942394A6E100684CF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34F9EF922394A6E100684CF7 /* Main.storyboard */; };
 		34F9EF962394A6E100684CF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34F9EF952394A6E100684CF7 /* Assets.xcassets */; };
 		34F9EF992394A6E100684CF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34F9EF972394A6E100684CF7 /* LaunchScreen.storyboard */; };
-		34F9EFA42394A6E100684CF7 /* concentrationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F9EFA32394A6E100684CF7 /* concentrationTests.swift */; };
-		34F9EFAF2394A6E100684CF7 /* concentrationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F9EFAE2394A6E100684CF7 /* concentrationUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,17 +38,13 @@
 		34A148D4239EECBC00128594 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		34F9EF8B2394A6E100684CF7 /* concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34F9EF8E2394A6E100684CF7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		34F9EF902394A6E100684CF7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		34F9EF902394A6E100684CF7 /* ConcentrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationViewController.swift; sourceTree = "<group>"; };
 		34F9EF932394A6E100684CF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		34F9EF952394A6E100684CF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34F9EF982394A6E100684CF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34F9EF9A2394A6E100684CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34F9EF9F2394A6E100684CF7 /* concentrationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = concentrationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		34F9EFA32394A6E100684CF7 /* concentrationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = concentrationTests.swift; sourceTree = "<group>"; };
-		34F9EFA52394A6E100684CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34F9EFAA2394A6E100684CF7 /* concentrationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = concentrationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		34F9EFAE2394A6E100684CF7 /* concentrationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = concentrationUITests.swift; sourceTree = "<group>"; };
-		34F9EFB02394A6E100684CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +76,6 @@
 			isa = PBXGroup;
 			children = (
 				34F9EF8D2394A6E100684CF7 /* concentration */,
-				34F9EFA22394A6E100684CF7 /* concentrationTests */,
-				34F9EFAD2394A6E100684CF7 /* concentrationUITests */,
 				34F9EF8C2394A6E100684CF7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -101,7 +93,7 @@
 		34F9EF8D2394A6E100684CF7 /* concentration */ = {
 			isa = PBXGroup;
 			children = (
-				34F9EF902394A6E100684CF7 /* ViewController.swift */,
+				34F9EF902394A6E100684CF7 /* ConcentrationViewController.swift */,
 				34F9EF922394A6E100684CF7 /* Main.storyboard */,
 				34A148D2239EE53B00128594 /* concentration.swift */,
 				34A148D4239EECBC00128594 /* Card.swift */,
@@ -109,24 +101,6 @@
 				34F9EF9A2394A6E100684CF7 /* Info.plist */,
 			);
 			path = concentration;
-			sourceTree = "<group>";
-		};
-		34F9EFA22394A6E100684CF7 /* concentrationTests */ = {
-			isa = PBXGroup;
-			children = (
-				34F9EFA32394A6E100684CF7 /* concentrationTests.swift */,
-				34F9EFA52394A6E100684CF7 /* Info.plist */,
-			);
-			path = concentrationTests;
-			sourceTree = "<group>";
-		};
-		34F9EFAD2394A6E100684CF7 /* concentrationUITests */ = {
-			isa = PBXGroup;
-			children = (
-				34F9EFAE2394A6E100684CF7 /* concentrationUITests.swift */,
-				34F9EFB02394A6E100684CF7 /* Info.plist */,
-			);
-			path = concentrationUITests;
 			sourceTree = "<group>";
 		};
 		34F9EFBC2394AA2900684CF7 /* SupportFiles */ = {
@@ -273,7 +247,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34F9EF912394A6E100684CF7 /* ViewController.swift in Sources */,
+				34F9EF912394A6E100684CF7 /* ConcentrationViewController.swift in Sources */,
 				34A148D3239EE53B00128594 /* concentration.swift in Sources */,
 				34F9EF8F2394A6E100684CF7 /* AppDelegate.swift in Sources */,
 				34A148D5239EECBC00128594 /* Card.swift in Sources */,
@@ -284,7 +258,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34F9EFA42394A6E100684CF7 /* concentrationTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,7 +265,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34F9EFAF2394A6E100684CF7 /* concentrationUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
