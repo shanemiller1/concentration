@@ -19,6 +19,7 @@ UNI FGCU, made mainly at home though.
 ![enter image description here](https://github.com/shanemiller1/concentration/blob/master/concentration/thegif.gif)
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#documentation)Documentation
+Xcode>pull from github>insert url>make sure you're running latest version of mac os
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#diagrams)Diagrams
 
