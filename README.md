@@ -20,6 +20,7 @@ UNI FGCU, made mainly at home though.
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#documentation)Documentation
 Xcode>pull from github>insert url>make sure you're running latest version of mac os
+Notes - https://eaglefgcu-my.sharepoint.com/:o:/g/personal/smmiller4337_eagle_fgcu_edu/EgeCV_ETyPdFryhj-q1Qt3QBlzzhuyntW_4cbN1gGp2j5g?e=0uTy26
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#diagrams)Diagrams
 
