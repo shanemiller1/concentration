@@ -1,4 +1,3 @@
-# concentration
 
 # OOP Personal Project w/ Swift
 
@@ -17,17 +16,15 @@ UNI FGCU, made mainly at home though.
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#demonstration)Demonstration
 
-Add an animated gif of your program running. You can use ShareX, GIPHY Capture or another tool.  [https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/](https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/)  Note for school project: This is a great way for friends and family to easily see your project in action. The markdown is ![Alt text](relative/path/to/img.png)  
-[![Sample GIF](https://github.com/PV-COP/PV-README-TEMPLATE/raw/master/docs/octocat_github.gif)](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/docs/octocat_github.gif)
+![enter image description here](https://github.com/shanemiller1/concentration/blob/master/concentration/thegif.gif)
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#documentation)Documentation
 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#diagrams)Diagrams
 
-Such as a class diagram.  
-The markdown is ![Alt text](relative/path/to/img.png)  
-[![Sample Image](https://github.com/PV-COP/PV-README-TEMPLATE/raw/master/docs/9919.png)](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/docs/9919.png)
-
+MVC's
+![iPhone View](https://github.com/shanemiller1/concentration/blob/master/concentration/gram1.png)
+![iPad View](https://github.com/shanemiller1/concentration/blob/master/concentration/gram2.png)
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#getting-started)Getting Started
 
 Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes.  
@@ -37,7 +34,7 @@ Note for school project: You want a potential client or hirer to be able to run 
 ## [](https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md#built-with)Built With
 
 -   XCODE
--   Cocobutter
+-   Coco Touch
 -   Swift
       
 iTunes U, Stanford swift lessons.
