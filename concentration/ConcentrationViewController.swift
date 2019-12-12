@@ -38,6 +38,7 @@ class ConcentrationViewController: UIViewController {
     }
     
     private func updateViewFromModel() {
+        if cardButtons != nil {
         for index in cardButtons.indices {
             let button = cardButtons[index]
             let card = game.cards[index]
@@ -50,6 +51,7 @@ class ConcentrationViewController: UIViewController {
             }
         }
     }
+}
     
     var theme: String? {
         didSet {

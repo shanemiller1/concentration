@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		347192F223A1B6300046D807 /* ConcentrationThemeChooserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347192F123A1B6300046D807 /* ConcentrationThemeChooserViewController.swift */; };
 		34A148D3239EE53B00128594 /* concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34A148D2239EE53B00128594 /* concentration.swift */; };
 		34A148D5239EECBC00128594 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34A148D4239EECBC00128594 /* Card.swift */; };
 		34F9EF8F2394A6E100684CF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F9EF8E2394A6E100684CF7 /* AppDelegate.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		347192F123A1B6300046D807 /* ConcentrationThemeChooserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationThemeChooserViewController.swift; sourceTree = "<group>"; };
 		34A148D2239EE53B00128594 /* concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = concentration.swift; sourceTree = "<group>"; };
 		34A148D4239EECBC00128594 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		34F9EF8B2394A6E100684CF7 /* concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +97,7 @@
 			children = (
 				34F9EF902394A6E100684CF7 /* ConcentrationViewController.swift */,
 				34F9EF922394A6E100684CF7 /* Main.storyboard */,
+				347192F123A1B6300046D807 /* ConcentrationThemeChooserViewController.swift */,
 				34A148D2239EE53B00128594 /* concentration.swift */,
 				34A148D4239EECBC00128594 /* Card.swift */,
 				34F9EFBC2394AA2900684CF7 /* SupportFiles */,
@@ -247,6 +250,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				347192F223A1B6300046D807 /* ConcentrationThemeChooserViewController.swift in Sources */,
 				34F9EF912394A6E100684CF7 /* ConcentrationViewController.swift in Sources */,
 				34A148D3239EE53B00128594 /* concentration.swift in Sources */,
 				34F9EF8F2394A6E100684CF7 /* AppDelegate.swift in Sources */,
